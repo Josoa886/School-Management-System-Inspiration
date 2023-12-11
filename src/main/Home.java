@@ -4,8 +4,6 @@
  * and open the template in the editor.
  */
 package main;
-
-import javafx.scene.paint.Color;
 import javax.swing.JPanel;
 
 /**
